@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"master_data"},
+{"type":"table","name":"master_jenis","database":"master_data","data":
+[
+{"id_jenis":"1","nama":"kabupaten","create_at":"2022-07-12 06:32:11"},
+{"id_jenis":"2","nama":"kota","create_at":"2022-07-12 06:32:11"},
+{"id_jenis":"3","nama":"kelurahan","create_at":"2022-07-12 06:32:11"},
+{"id_jenis":"4","nama":"desa","create_at":"2022-07-12 06:32:11"}
+]
+}
+]
